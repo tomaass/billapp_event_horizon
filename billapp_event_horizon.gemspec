@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BillappEventHorizon::VERSION
   spec.authors       = ["tomaass"]
   spec.email         = ["tomas@sorejs.cz"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{"Simple gem for logging events in Rails applications using Mongoid ODM created from  jzajpt's plugin."}
+  spec.description   = %q{"Simple gem for logging events in Rails applications using Mongoid ODM created from  jzajpt's plugin."}
   spec.homepage      = ""
   spec.license       = "MIT"
 
