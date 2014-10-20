@@ -53,6 +53,6 @@ end
 
 module ActiveSupport
   class TestCase
-    extend EventHorizon::ShouldaMacros
+    extend BillappEventHorizon::ShouldaMacros
   end
 end

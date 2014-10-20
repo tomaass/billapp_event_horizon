@@ -1,6 +1,5 @@
 require "billapp_event_horizon/version"
+require "billapp_event_horizon/events"
 
-module BillappEventHorizon
-end
 
-ActiveRecord::Base.send :include, BillappEventHorizon::Events
+
